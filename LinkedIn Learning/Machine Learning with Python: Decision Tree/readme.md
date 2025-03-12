@@ -1,4 +1,4 @@
-In this file I have added files related to the LinkedIn certification I did on Decision Tree. 
+In this repo I have added files related to the LinkedIn certification I did on Decision Tree. 
 
 The main takeaway from this certification for me was that how decision tree works well with both classification and regression.
 As well as the different measures it uses to do the recursive partitioning. 
